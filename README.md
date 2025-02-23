@@ -18,21 +18,15 @@
 ## **🎓 Certifications**
  
  ### ** 🏆 EX200 Red Hat Certified System Administrator **
- <p align="left">
-  <a href="https://rhtapps.redhat.com/verify?certId=250-009-594" target="_blank">
-    <img src="https://media.giphy.com/media/3ohs7HdhQA4G6nV4pK/giphy.gif" height="100" alt="Red Hat Certified">
-  </a>
-</p>
-    
-    ## ![RHCSA](https://img.shields.io/badge/RHCSA-Certified-red?style=flat&logo=redhat)                   [Verify RHCSA](https://rhtapps.redhat.com/verify?certId=YOUR_CERT_ID) 
- - 🏆 **RHCSC**
-    ## ![RHCSC](https://img.shields.io/badge/RHCE-Certified-red?style=flat&logo=redhat)   [Verify RHCE](https://rhtapps.redhat.com/verify?certId=YOUR_CERT_ID)
----
 <p align="left">
-  <a href="https://rhtapps.redhat.com/verify?certId=250-009-594" target="_blank">
+  <a href="https://www.credly.com/badges/07d970ce-9042-45b8-ba0a-e58f6089fed0/public_url" target="_blank">
     <img src="https://www.credly.com/badges/07d970ce-9042-45b8-ba0a-e58f6089fed0/public_url" height="100" alt="Red Hat Certified">
   </a>
 </p>
+     
+ - 🏆 **RHCSC**
+    ## ![RHCSC](https://img.shields.io/badge/RHCE-Certified-red?style=flat&logo=redhat)   [Verify RHCE](https://rhtapps.redhat.com/verify?certId=YOUR_CERT_ID)
+---
 
 ### **🚀 DevOps & Cloud Technologies**
 <p align="center">
