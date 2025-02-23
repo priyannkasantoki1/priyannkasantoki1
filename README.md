@@ -16,13 +16,24 @@
 ---
 
 ## **🎓 Certifications**
-
-  🏆 **RHCE**  ![RHCE](https://img.shields.io/badge/RHCE-Certified-red?style=flat&logo=redhat)   [Verify RHCE](https://rhtapps.redhat.com/verify?certId=YOUR_CERT_ID) 
-  🏆 **RHCSA**  ![RHCSA](https://img.shields.io/badge/RHCSA-Certified-red?style=flat&logo=redhat)  [Verify RHCSA](https://rhtapps.redhat.com/verify?certId=YOUR_CERT_ID) 
-
+ 
+ ### ** 🏆 EX200 Red Hat Certified System Administrator **
+ <p align="left">
+  <a href="https://rhtapps.redhat.com/verify?certId=250-009-594" target="_blank">
+    <img src="https://media.giphy.com/media/3ohs7HdhQA4G6nV4pK/giphy.gif" height="100" alt="Red Hat Certified">
+  </a>
+</p>
+    
+    ## ![RHCSA](https://img.shields.io/badge/RHCSA-Certified-red?style=flat&logo=redhat)                   [Verify RHCSA](https://rhtapps.redhat.com/verify?certId=YOUR_CERT_ID) 
+ - 🏆 **RHCSC**
+    ## ![RHCSC](https://img.shields.io/badge/RHCE-Certified-red?style=flat&logo=redhat)   [Verify RHCE](https://rhtapps.redhat.com/verify?certId=YOUR_CERT_ID)
 ---
+<p align="left">
+  <a href="https://rhtapps.redhat.com/verify?certId=250-009-594" target="_blank">
+    <img src="https://www.credly.com/badges/07d970ce-9042-45b8-ba0a-e58f6089fed0/public_url" height="100" alt="Red Hat Certified">
+  </a>
+</p>
 
-## **🛠️ Tech Stack & Tools**
 ### **🚀 DevOps & Cloud Technologies**
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -49,5 +60,5 @@
 ## **📫 Connect With Me**
 📍 **Location:** Ahmedabad, India 🇮🇳  
 🔗 **LinkedIn:** [Priyanka Santoki](https://www.linkedin.com/in/priyannkasantoki/)  
-🔗 **GitHub:** [priyanka-santoki](https://github.com/priyannkasantoki1)  
+🔗 **GitHub:** [priyannka-santoki](https://github.com/priyannkasantoki1)  
  
