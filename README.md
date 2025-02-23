@@ -16,10 +16,9 @@
 ---
 
 ## **🎓 Certifications**
-| Certification | Badge | Verification |
-|--------------|------|-------------|
-| **RHCE** | ![RHCE](https://img.shields.io/badge/RHCE-Certified-red?style=flat&logo=redhat) | [Verify RHCE](https://rhtapps.redhat.com/verify?certId=YOUR_CERT_ID) |
-| **RHCSA** | ![RHCSA](https://img.shields.io/badge/RHCSA-Certified-red?style=flat&logo=redhat) | [Verify RHCSA](https://rhtapps.redhat.com/verify?certId=YOUR_CERT_ID) |
+
+  🏆 **RHCE**  ![RHCE](https://img.shields.io/badge/RHCE-Certified-red?style=flat&logo=redhat)   [Verify RHCE](https://rhtapps.redhat.com/verify?certId=YOUR_CERT_ID) 
+  🏆 **RHCSA**  ![RHCSA](https://img.shields.io/badge/RHCSA-Certified-red?style=flat&logo=redhat)  [Verify RHCSA](https://rhtapps.redhat.com/verify?certId=YOUR_CERT_ID) 
 
 ---
 
@@ -45,18 +44,10 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="200px">
-</p>
 
----
 
 ## **📫 Connect With Me**
 📍 **Location:** Ahmedabad, India 🇮🇳  
 🔗 **LinkedIn:** [Priyanka Santoki](https://www.linkedin.com/in/priyannkasantoki/)  
-🔗 **GitHub:** [priyanka-santoki](https://github.com/priyanka-santoki)  
-✉️ **Email:** `your-email@example.com`  
-
----
-
-
+🔗 **GitHub:** [priyanka-santoki](https://github.com/priyannkasantoki1)  
+ 
