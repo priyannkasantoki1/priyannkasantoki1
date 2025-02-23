@@ -16,17 +16,9 @@
 ---
 
 ## **🎓 Certifications**
- 
- ### ** 🏆 EX200 Red Hat Certified System Administrator **
-<p align="left">
-  <a href="https://www.credly.com/badges/07d970ce-9042-45b8-ba0a-e58f6089fed0/public_url" target="_blank">
-    <img src="https://www.credly.com/badges/07d970ce-9042-45b8-ba0a-e58f6089fed0/public_url" height="100" alt="Red Hat Certified">
-  </a>
-</p>
-     
- - 🏆 **RHCSC**
-    ## ![RHCSC](https://img.shields.io/badge/RHCE-Certified-red?style=flat&logo=redhat)   [Verify RHCE](https://rhtapps.redhat.com/verify?certId=YOUR_CERT_ID)
----
+   **🏆 EX200 Red Hat Certified System Administrator:**  [Verified linked](https://www.credly.com/badges/07d970ce-9042-45b8-ba0a-e58f6089fed0/public_url)  
+    **🏆 EX200 Red Hat Certified System Administrator:**  [Verified linked](https://www.credly.com/badges/07d970ce-9042-45b8-ba0a-e58f6089fed0/public_url)
+   
 
 ### **🚀 DevOps & Cloud Technologies**
 <p align="center">
