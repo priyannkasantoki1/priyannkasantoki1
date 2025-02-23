@@ -11,7 +11,7 @@
 
 ## **🎓 Certifications**
    **🏆 EX200 Red Hat Certified System Administrator:**  [Verified linked](https://www.credly.com/badges/07d970ce-9042-45b8-ba0a-e58f6089fed0/public_url)  
-    **🏆 EX200 Red Hat Certified System Administrator:**  [Verified linked](https://www.credly.com/badges/bf80fa3a-1c27-497d-a503-1aedc470e480/public_url)
+    **🏆 EX188 Red Hat Certified Specialist in Containers:**  [Verified linked](https://www.credly.com/badges/bf80fa3a-1c27-497d-a503-1aedc470e480/public_url)
    
 
 ### **🚀 DevOps & Cloud Technologies**
@@ -37,8 +37,7 @@
 
 
 
-## **📫 Connect With Me**
-📍 **Location:** Ahmedabad, India 🇮🇳  
-🔗 **LinkedIn:** [Priyanka Santoki](https://www.linkedin.com/in/priyannkasantoki/)  
-🔗 **GitHub:** [priyannka-santoki](https://github.com/priyannkasantoki1)  
+## **📫 Connect With Me** 
+🔗 **LinkedIn:** [Priyannka Santoki](https://www.linkedin.com/in/priyannkasantoki/)  
+🔗 **GitHub:** [Priyannka Santoki](https://github.com/priyannkasantoki1)  
  
