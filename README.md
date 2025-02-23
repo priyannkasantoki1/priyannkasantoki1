@@ -1,11 +1,5 @@
-<h1 align="center">Hi 👋, I'm Priyanka Santoki</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> I'm Priyanka Santoki</h1>
 <h3 align="center">🚀 Corporate Trainer | DevOps Engineer | Red Hat Certified Architect (Aspiring) | Automation Enthusiast</h3>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
-</p>
-
----
 
 ## 🚀 **About Me**
 - 🏆 **Red Hat Certified Engineer (RHCE) | RHCSA**
@@ -17,7 +11,7 @@
 
 ## **🎓 Certifications**
    **🏆 EX200 Red Hat Certified System Administrator:**  [Verified linked](https://www.credly.com/badges/07d970ce-9042-45b8-ba0a-e58f6089fed0/public_url)  
-    **🏆 EX200 Red Hat Certified System Administrator:**  [Verified linked](https://www.credly.com/badges/07d970ce-9042-45b8-ba0a-e58f6089fed0/public_url)
+    **🏆 EX200 Red Hat Certified System Administrator:**  [Verified linked](https://www.credly.com/badges/bf80fa3a-1c27-497d-a503-1aedc470e480/public_url)
    
 
 ### **🚀 DevOps & Cloud Technologies**
