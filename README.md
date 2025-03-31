@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Corporate Trainer | DevOps Engineer | Red Hat Certified Architect (Aspiring) | Automation Enthusiast</h3>
 
 ## 🚀 **About Me**
-- 🏆 **Red Hat Certified Engineer (RHCE) | RHCSA**
+- 🏆 **Red Hat Certified Specialist in Containers (RHCSA-EX188) | RHCSA**
 - 🔥 Passionate about **Cloud, Kubernetes, OpenShift, and DevOps Automation**
 - 💡 Exploring **Serverless Technologies & Advanced Ansible Automation**
 - 🎯 **RHCA in Progress (DevOps & Automation Path)**
