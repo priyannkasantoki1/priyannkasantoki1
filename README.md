@@ -38,6 +38,6 @@
 
 
 ## **📫 Connect With Me** 
-🔗 **LinkedIn:** [Priyannka Santoki](https://www.linkedin.com/in/priyannkasantoki/)  
+🔗 **LinkedIn:** [Priyannka Santoki](https://www.linkedin.com/in/priyankasantoki-devopsengineer/)  
 🔗 **GitHub:** [Priyannka Santoki](https://github.com/priyannkasantoki1)  
  
